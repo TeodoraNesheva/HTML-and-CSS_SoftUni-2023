@@ -9,6 +9,9 @@ body {
 ul {
   list-style-type: none;
 }
+li i{
+    padding-right: 5px;
+}
 
 ul.check i {
   color: #2fcc71;
@@ -23,4 +26,4 @@ ul.star i {
 ul.contact i {
   color: #3498da;
   font-size: 25px;
-}/* TODO: style the html */
+}
