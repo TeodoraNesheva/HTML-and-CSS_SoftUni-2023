@@ -1,24 +1,23 @@
-html {
-    font-family: Helvetica, sans-serif;
+html{
+    font-family: 'Helvetica' , sans-serif;
     font-size: 16px;
     line-height: 1.5;
-  }
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Georgia', serif;
+}
+
+blockquote {
   
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    font-family: Georgia, serif;
-  }
-  
-  blockquote {
-    border-left: rgb(221, 221, 221);
+    border-left: 2px solid rgb(221, 221, 221);
+    height: 100px;
     font-style: italic;
     padding: 10px 30px;
+    
   }
   
+
   .bottom {
     text-align: right;
   }
