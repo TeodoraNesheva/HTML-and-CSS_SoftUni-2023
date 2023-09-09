@@ -24,14 +24,14 @@ body {
     top: 20px;
   }
   
-  span {
+span{
+    background-color: #fff;
+    position: relative;
     display: block;
     width: 120px;
+    margin: 0 auto;
+    top: -11px;
     font-size: 14px;
     text-align: center;
     padding: 3px 5px;
-    margin: 0 auto;
-    background-color: #fff;
-    position: relative;
-    top: -11px;
-  }
+}
