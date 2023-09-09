@@ -1,22 +1,21 @@
-html {
+html{
     font-family: Helvetica, sans-serif;
-  }
-  
-  ul,
-  li,
-  nav {
+    padding: 25px;
+}
+
+ul, li, nav{
     display: inline-block;
-  }
-  
-  a {
+}
+
+a{
     text-decoration: none;
     color: green;
     padding-left: 30px;
-  }
-  
-  div {
+}
+
+div{
     display: inline-block;
     font-size: 40px;
     font-weight: bold;
     margin-right: 80px;
-  }
+}
