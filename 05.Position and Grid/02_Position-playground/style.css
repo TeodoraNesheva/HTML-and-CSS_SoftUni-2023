@@ -21,11 +21,11 @@ section.card {
 }
 
 .blue {
-    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    background: linear-gradient(90deg, rgb(26,96,158) 5%, rgb(41,140,159) 35%, rgb(62,196,161) 100%);
 }
 
 .orange {
-    background: linear-gradient(90deg, rgba(253, 29, 158, 1) 65%, rgba(252, 176, 69, 1) 100%);
+    background: linear-gradient(90deg,rgb(171,56,113) 35%, rgb(206,122,26) 100% );
 }
 
 i {
